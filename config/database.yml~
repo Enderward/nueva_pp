@@ -1,0 +1,8 @@
+development:
+ adapter: mysql2
+ database: nueva_app
+ pool: 5 ?
+ timeout: 5000
+ host: localhost
+ username: root 
+ password: midory

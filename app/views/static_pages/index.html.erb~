@@ -1,0 +1,3 @@
+<% @variable.each do |var| %>
+  <%= var %>
+<% end %>
